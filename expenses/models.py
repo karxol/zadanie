@@ -33,3 +33,4 @@ class Expense(models.Model):
         return f'{self.date} {self.name} {self.amount}'
 
 
+
